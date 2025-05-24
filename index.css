@@ -1,13 +1,19 @@
-*{
-    background-color: blueviolet;
 
+body{
+    background-image:url('peakpx.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+   
 }
 
 h1{
-    font-size: 600%;  
+    font-size: 600%;
+    color: rgb(255, 13, 13);
 }
 
 div{
-    margin-left: auto;
-    margin-left: auto;
+    margin-left:22%;
+    margin-top: 30%;
 }
