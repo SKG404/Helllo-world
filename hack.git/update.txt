@@ -1,0 +1,4 @@
+cammands for updating in gti hub
+git add .
+git commit -m "updating comment"
+git push -u origin file name
